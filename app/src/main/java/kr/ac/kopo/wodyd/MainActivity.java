@@ -19,7 +19,6 @@ public class MainActivity extends AppCompatActivity {
     Button btn;
     RadioGroup rg;
     RadioButton rbFemale, rbMale;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
