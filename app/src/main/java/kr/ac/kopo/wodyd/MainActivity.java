@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity {
             else
                 generString = "여";
 
-            Toast toast = Toast.makeText(MainActivity.this, generString+"성이 체크되었습니다.", Toast.LENGTH_SHORT);
+            Toast toast = Toast.makeText(MainActivity.this, generString+"성이 체크되었습니다(람쥐).", Toast.LENGTH_SHORT);
             toast.show();
 
         }
